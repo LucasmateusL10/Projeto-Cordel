@@ -72,7 +72,7 @@ section > p{
 }
 section#img01{
     background-image: url(background001.jpg);
-    background-position: right center;
+    background-position: center center;
     background-size: cover;
 }
 section#img02{
